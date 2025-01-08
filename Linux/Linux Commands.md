@@ -4,7 +4,7 @@ tags:
 ```
 uname -a
 ```
-![[Screenshot 2024-12-23 193907.png]]
+![[Pasted image 20250108145237.png]]
 
 ```
 head -n 1/etc/issue
