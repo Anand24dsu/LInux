@@ -8,6 +8,7 @@ uname -a
 ![Screenshot of feature](Screenshot 2024-12-23 193907.png)
 
 
+
 ```
 head -n 1/etc/issue
 ```
